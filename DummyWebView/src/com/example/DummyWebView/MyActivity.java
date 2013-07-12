@@ -35,7 +35,7 @@ public class MyActivity extends Activity {
         });
 
         //String orient = getDeviceDefaultOrientation() == Configuration.ORIENTATION_PORTRAIT ? "0p" : "0l";
-        webView.loadUrl("http://jsbin.com/oqujok/7/");
+        webView.loadUrl("http://jsfiddle.net/Y2GaM/1/embedded/result/");
     }
 
 
